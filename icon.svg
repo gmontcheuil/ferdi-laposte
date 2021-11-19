@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256.0px"
+   height="256.0px"
+   viewBox="0 0 256.0 256.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="icon.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview238"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.72337262"
+     inkscape:cx="125.10841"
+     inkscape:cy="229.48063"
+     inkscape:window-width="1482"
+     inkscape:window-height="1030"
+     inkscape:window-x="387"
+     inkscape:window-y="3"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid244" />
+  </sodipodi:namedview>
+  <defs
+     id="defs233" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Fond"
+     style="display:inline">
+    <rect
+       style="opacity:0.89;fill:#ffcb05;fill-opacity:1"
+       id="rect666"
+       width="260"
+       height="260"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="Enveloppe"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       class="st1"
+       d="m 243.35,62.661111 c -2.8,0 -4.7,0.5 -9,3 l -96.8,58.799999 -62,-46.499999 c -9.7,-6.8 -16,-7.9 -17.4,-7.9 h 125 c 7.5,0 13.6,-5.8 13.6,-13.3 0,-7.5 -6.1,-13.9 -13.6,-13.9 h -159 v 0 0 c -0.7,0 -1.1,-0.1 -2.8,0.3 -4.7,1 -8.6,4.3 -10.1,9 -1.9,5.6 0.1,11.7 4.7,15.2 l 112.6,84.499999 c 2.4,1.8 5.3,2.7 8.2,2.7 2.4,0 4.9,-0.7 7.1,-2 l 91.1,-55.299999 c 0,0 -4.9,4.399999 -5.1,10.399999 v 73.8 c 0,3.5 -3.6,4.5 -5.7,4.5 h -186 c -2.1,0 -5.7,-0.9 -5.7,-4.5 v -68 c 0,-7.5 -6.1,-13.599999 -13.6,-13.599999 -7.5,0 -13.6,6.099999 -13.6,13.599999 v 68 c 0,17.8 14.4,31.7 32.9,31.7 h 185.9 c 18.4,0 32.9,-13.9 32.9,-31.7 V 76.261111 c 0,-7.5 -6.1,-13.7 -13.6,-13.6 z"
+       id="path30"
+       style="fill:#0000ff" />
+  </g>
+</svg>

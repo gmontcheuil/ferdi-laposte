@@ -1,0 +1,11 @@
+{
+  "id": "laposte",
+  "name": "LaPoste.net",
+  "version": "1.0.0",
+  "description": "LaPoste.net webmail",
+  "author": "Grégoire Montcheuil <gregoire.montcheuil@gamil.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://web-mail.laposte.net/main.html#inbox"
+  }
+}
